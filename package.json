@@ -1,0 +1,27 @@
+{
+  "name": "PracticaBackendLogin",
+  "version": "1.0.0",
+  "description": "Backend Login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antony0110/PracticaBackendLogin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antony0110/PracticaBackendLogin/issues"
+  },
+  "homepage": "https://github.com/antony0110/PracticaBackendLogin#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.6",
+    "sequelize-cli": "^5.5.1"
+  }
+}
